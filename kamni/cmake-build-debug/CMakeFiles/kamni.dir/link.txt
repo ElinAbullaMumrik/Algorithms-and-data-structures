@@ -1,0 +1,3 @@
+"C:\Users\Public\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\kamni.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\kamni.dir/objects.a @CMakeFiles\kamni.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\kamni.dir/objects.a -Wl,--no-whole-archive  -o kamni.exe -Wl,--out-implib,libkamni.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\kamni.dir\linklibs.rsp

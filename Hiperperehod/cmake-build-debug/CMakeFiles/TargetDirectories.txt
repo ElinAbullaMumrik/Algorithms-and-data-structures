@@ -1,0 +1,3 @@
+C:/Users/Public/CLionProjects/Hiperperehod/cmake-build-debug/CMakeFiles/Hiperperehod.dir
+C:/Users/Public/CLionProjects/Hiperperehod/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Public/CLionProjects/Hiperperehod/cmake-build-debug/CMakeFiles/rebuild_cache.dir

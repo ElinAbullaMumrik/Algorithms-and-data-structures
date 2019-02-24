@@ -1,0 +1,3 @@
+C:/Users/Public/CLionProjects/kamni/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Public/CLionProjects/kamni/cmake-build-debug/CMakeFiles/kamni.dir
+C:/Users/Public/CLionProjects/kamni/cmake-build-debug/CMakeFiles/edit_cache.dir

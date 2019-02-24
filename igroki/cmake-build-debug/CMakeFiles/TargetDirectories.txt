@@ -1,0 +1,3 @@
+C:/Users/Public/CLionProjects/igroki/cmake-build-debug/CMakeFiles/igroki.dir
+C:/Users/Public/CLionProjects/igroki/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Public/CLionProjects/igroki/cmake-build-debug/CMakeFiles/rebuild_cache.dir

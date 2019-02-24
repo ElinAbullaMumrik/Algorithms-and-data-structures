@@ -1,0 +1,3 @@
+C:/Users/Public/CLionProjects/StenkaNaStenku/cmake-build-debug/CMakeFiles/StenkaNaStenku.dir
+C:/Users/Public/CLionProjects/StenkaNaStenku/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Public/CLionProjects/StenkaNaStenku/cmake-build-debug/CMakeFiles/rebuild_cache.dir
